@@ -1,2 +1,2 @@
 # healthcare-chatbot
-a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
+A healthcare chatbot is an artificial intelligence (AI) tool designed to assist users with various healthcare-related queries and tasks. It leverages natural language processing (NLP) to understand and respond to user inputs in a conversational manner.A chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
